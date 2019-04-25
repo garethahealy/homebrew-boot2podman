@@ -1,8 +1,8 @@
 class PodmanMachine < Formula
   desc "Machine lets you create Podman hosts on your computer"
   homepage "https://boot2podman.github.io/"
-  url "https://github.com/boot2podman/machine/archive/v0.14.tar.gz"
-  sha256 "ad266d01f14d9e0ef3160cf216ab88268f562bd7750c55e5fd52ba1edd5e8ea0"
+  url "https://github.com/boot2podman/machine/archive/v0.15.tar.gz"
+  sha256 "1bc47532af45d5adf5cc835ed6c1c7fc73eea7f5a663648f6bc8965e756e5718"
 
   depends_on "go"
 

@@ -1,8 +1,8 @@
 class PodmanRemote < Formula
   desc "Podman manages pods, containers, images, and volumes"
   homepage "https://podman.io/"
-  url "https://github.com/garethahealy/podman-remote-build/archive/1.3.0-dev-25042019.tar.gz"
-  sha256 "e912c0e18a6c025169bf3dd0692ebf930e196fa9fd07b420d36928d15034874b"
+  url "https://github.com/garethahealy/podman-remote-build/archive/1.3.0-dev-01052019.tar.gz"
+  sha256 "65cf4c26620d2e2ba9cd1a847ad32d7cd743df9c7d5e614dcc08b8893c0a2ba0"
 
   depends_on "go"
 
